@@ -1,0 +1,70 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "4pda.apk": {
+    "hash": "bdc7aeb92c9ca6eacd9f1386b3bce3459f2caab3a6aa94d2bc44b19ed4f2503e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "ru.fourpda.client",
+    "versionCode": 10942,
+    "name": "4PDA",
+    "versionName": "1.9.42",
+    "minSdkVersion": 8,
+    "targetSdkVersion": 33,
+    "sig": "e2990d262c9d1d5c36cd7241adde030a",
+    "signer": "ff143305d27dbc872615d286aaedd8ac29e25123eed2d7519191b797d80ca40c",
+    "size": 3050144,
+    "apkName": "4pda.apk",
+    "added": 1738848337.554758
+  }
+}
