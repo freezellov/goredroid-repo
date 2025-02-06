@@ -66,5 +66,65 @@
     "size": 3050144,
     "apkName": "4pda.apk",
     "added": 1738848337.554758
+  },
+  "AndroidFaker.apk": {
+    "hash": "e2b42912636ef3793f46ff6355efbc639434fdbf677590bd4b2da692c7bef673",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.KILL_BACKGROUND_PROCESSES",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "com.android1500.androidfaker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.android1500.androidfaker",
+    "versionCode": 10902,
+    "name": "Android Faker",
+    "versionName": "1.9.2",
+    "minSdkVersion": 28,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "603a1bcf8ed0822cf3206cf17d1e302a",
+    "signer": "9180c52f6a4370cd981b96f48eb646f3ed5afe7012da04f1c6316f7beb0b32ce",
+    "size": 29428422,
+    "apkName": "AndroidFaker.apk",
+    "added": 1738851835.9438
   }
 }
